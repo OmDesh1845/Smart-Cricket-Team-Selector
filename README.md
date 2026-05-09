@@ -1,4 +1,4 @@
-# Smart-Cricket-Team-Selector
+
 # Smart Cricket Team Selector
 
 A console-based Core Java project that recommends cricket players based on match conditions such as target score, balls remaining, and wickets left.
